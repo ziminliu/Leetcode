@@ -4,4 +4,5 @@
 ## [1071. 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)
 ## [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 ## [面试题 01.06. 字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/)
+## [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)
 说明：由于笔者水平原因，本库的解法不代表是最优解，有更好解法的朋友可以在本库下提出`issue`
