@@ -8,4 +8,5 @@
 ## [836. 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap/)
 ## [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)
 ## [面试题40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+## [面试题 17.16. 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)
 说明：由于笔者水平原因，本库的解法不代表是最优解，有更好解法的朋友可以在本库下提出`issue`
